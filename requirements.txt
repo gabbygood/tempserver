@@ -1,0 +1,4 @@
+streamlit
+RPi.GPIO
+adafruit-circuitpython-dht
+blinka
